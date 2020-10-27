@@ -1,0 +1,12 @@
+{
+	"code": "200",
+	"data": {
+		"hasNewVer":    true,
+		"firmwareVer":  "08.03.01.00.00.20.06.01.00.08",
+		"firmwareMd5":  "1a9981a5a5df3ce4c070152e7e5d685a",
+		"firmwareUrl":  "https://midea-ai-device-firmware.oss-cn-hangzhou.aliyuncs.com/08.03.01.00.00.20.06.01.00.08.bin"
+	},
+	"topic":        "cloud.ota.upgrade",
+	"mid":  "82e95561-c800-4562-a1a5-d66204d15663"
+}
+

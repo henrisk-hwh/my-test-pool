@@ -1,0 +1,8 @@
+start_scan_friends.mp3 开始发现美的家电朋友
+scan_timeout.mp3 并没有发现家电朋友哦
+found_ac.mp3 找到一台空调朋友
+found_bg.mp3 找到一台冰箱朋友
+inviting.mp3 正在邀请朋友中
+invite_timeout.mp3 朋友没有响应哦
+invite_next.mp3 正在邀请下一位朋友
+welcome_new_friend.mp3 欢迎新朋友加入

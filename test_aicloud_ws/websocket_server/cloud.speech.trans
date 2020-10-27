@@ -1,0 +1,10 @@
+{
+	"topic": "cloud.speech.trans.ack",
+	"mid": "6aad0b12-2192-4b90-8f40-08a2bc0b5c2a",
+	"code": 200,
+	"message": "",
+	"data": {
+		"asr": "今天天气怎么样"
+	}
+}
+

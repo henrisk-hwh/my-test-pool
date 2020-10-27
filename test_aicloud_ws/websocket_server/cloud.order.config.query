@@ -1,0 +1,13 @@
+{
+	"msg":  "success",
+	"code": 200,
+	"data": {
+		"fullDuplex":   {
+			"enable":       0,
+			"timeOut":      35
+		}
+	},
+	"mid":  "59ae8f05-208c-4f04-8230-0e043e618e04",
+	"topic":        "cloud.order.config.query.reply"
+}
+

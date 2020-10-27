@@ -1,0 +1,10 @@
+{
+	"request":      {
+	},
+		"topic":        "cloud.keeplive",
+		"mid":  "581e5b31-6894-4ea1-99da-48ebd9125eb3",
+		"params":       {
+		},
+		"version":      "1.0"
+}
+
